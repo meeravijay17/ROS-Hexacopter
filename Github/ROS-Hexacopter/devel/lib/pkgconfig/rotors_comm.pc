@@ -1,0 +1,8 @@
+prefix=/home/mahesh/catkin_ws/devel
+
+Name: rotors_comm
+Description: Description of rotors_comm
+Version: 1.1.6
+Cflags: -I/home/mahesh/catkin_ws/devel/include
+Libs: -L/home/mahesh/catkin_ws/devel/lib 
+Requires: message_runtime

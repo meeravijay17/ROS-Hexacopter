@@ -1,0 +1,8 @@
+prefix=/home/mahesh/catkin_ws/devel
+
+Name: rotors_joy_interface
+Description: Description of rotors_joy_interface
+Version: 1.1.6
+Cflags: -I/home/mahesh/catkin_ws/src/rotors_simulator/rotors_joy_interface/include
+Libs: -L/home/mahesh/catkin_ws/devel/lib 
+Requires: roscpp geometry_msgs mav_msgs sensor_msgs

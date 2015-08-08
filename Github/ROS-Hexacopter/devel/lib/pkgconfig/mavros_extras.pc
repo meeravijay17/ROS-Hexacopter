@@ -1,0 +1,8 @@
+prefix=/home/mahesh/catkin_ws/devel
+
+Name: mavros_extras
+Description: Description of mavros_extras
+Version: 0.13.1
+Cflags: -I/home/mahesh/catkin_ws/devel/include
+Libs: -L/home/mahesh/catkin_ws/devel/lib -lmavros_extras
+Requires: image_transport mavros roscpp sensor_msgs

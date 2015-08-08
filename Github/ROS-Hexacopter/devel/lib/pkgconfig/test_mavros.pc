@@ -1,0 +1,8 @@
+prefix=/home/mahesh/catkin_ws/devel
+
+Name: test_mavros
+Description: Description of test_mavros
+Version: 0.13.1
+Cflags: -I/home/mahesh/catkin_ws/src/mavros/test_mavros/include -I/usr/include
+Libs: -L/home/mahesh/catkin_ws/devel/lib -lsitl_test -l:/usr/lib/x86_64-linux-gnu/libboost_system.so
+Requires: mavros mavros_extras roscpp std_msgs geometry_msgs tf2_ros eigen_conversions

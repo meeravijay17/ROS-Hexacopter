@@ -1,0 +1,8 @@
+prefix=/home/mahesh/catkin_ws/devel
+
+Name: octomap_ros
+Description: Description of octomap_ros
+Version: 0.3.1
+Cflags: -I/home/mahesh/catkin_ws/src/octomap_ros/include -I/opt/ros/indigo/include
+Libs: -L/home/mahesh/catkin_ws/devel/lib -loctomap_ros -l:/opt/ros/indigo/lib/liboctomap.so -l:/opt/ros/indigo/lib/liboctomath.so
+Requires: sensor_msgs tf pcl_ros octomap_msgs

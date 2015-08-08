@@ -1,0 +1,33 @@
+(cl:defpackage mavros-msg
+  (:use )
+  (:export
+   "<STATE>"
+   "STATE"
+   "<BATTERYSTATUS>"
+   "BATTERYSTATUS"
+   "<ACTUATORCONTROL>"
+   "ACTUATORCONTROL"
+   "<RADIOSTATUS>"
+   "RADIOSTATUS"
+   "<OVERRIDERCIN>"
+   "OVERRIDERCIN"
+   "<RCIN>"
+   "RCIN"
+   "<FILEENTRY>"
+   "FILEENTRY"
+   "<WAYPOINTLIST>"
+   "WAYPOINTLIST"
+   "<PARAMVALUE>"
+   "PARAMVALUE"
+   "<COMMANDCODE>"
+   "COMMANDCODE"
+   "<MAVLINK>"
+   "MAVLINK"
+   "<VFR_HUD>"
+   "VFR_HUD"
+   "<RCOUT>"
+   "RCOUT"
+   "<WAYPOINT>"
+   "WAYPOINT"
+  ))
+
